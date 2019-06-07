@@ -2,8 +2,6 @@
 
 ![demo.gif](doc/demo.gif)
 
-Try the online version at [objc2swift.yahoo-labs.jp](http://objc2swift.yahoo-labs.jp) 
-
 ## Project Goal
 
 We created _objc2swift_ for our own good, to reduce the redundant task when rewriting Obj-C code to Swift. 
