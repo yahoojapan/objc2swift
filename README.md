@@ -1,3 +1,10 @@
+# Announcement
+
+This project is no longer maintained. Further issue reports and/or pull requests will not be attended.
+We thank you for all your contributions and we hope this project has had a positive impact on your iOS development.
+
+---
+
 # objc2swift
 
 ![demo.gif](doc/demo.gif)
